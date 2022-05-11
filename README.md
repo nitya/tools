@@ -94,6 +94,7 @@ it can be served by any web serving mechanism, including any of the following op
 * [Google Cloud Storage](https://cloud.google.com/storage)
 * Amazon Web Services S3
 * Netlify
+* [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
 * Any open source web server (Nginx, Apache)
 * `python -m SimpleHTTPServer` (Python 2)
 * `python3 -m http.server` (Python 3)
